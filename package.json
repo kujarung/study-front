@@ -12,10 +12,17 @@
   "dependencies": {
     "css-loader": "^3.6.0",
     "file-loader": "^6.0.0",
+    "prettier": "^2.0.5",
     "react": "^16.13.1",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "html-webpack-plugin": "^4.3.0"
   }
 }

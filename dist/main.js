@@ -1,3 +1,4 @@
+/*! 빌드 날짜: 2020-7-14 10:24:27 PM */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -152,7 +153,7 @@ eval("var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtim
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./app.css */ \"./src/app.css\");\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_app_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _chall_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./chall.jpg */ \"./src/chall.jpg\");\n\n\n\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  document.body.innerHTML = `<img width=\"100\" height=\"100\" src=${_chall_jpg__WEBPACK_IMPORTED_MODULE_1__[\"default\"]} />`\n})\n\n//# sourceURL=webpack:///./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./app.css */ \"./src/app.css\");\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_app_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _chall_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./chall.jpg */ \"./src/chall.jpg\");\n\n\n\ndocument.addEventListener(\"DOMContentLoaded\", () => {\n  document.body.innerHTML = `<img width=\"100\" height=\"100\" src=${_chall_jpg__WEBPACK_IMPORTED_MODULE_1__[\"default\"]} />`\n})\n\nconsole.log(\"development\")\nconsole.log(\"1+1\")\nconsole.log(\"aaa\")\n\n//# sourceURL=webpack:///./src/app.js?");
 
 /***/ }),
 
